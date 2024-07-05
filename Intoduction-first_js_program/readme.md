@@ -1,5 +1,3 @@
-### Heading level 3 Introduction
+### **Introduction**
 
-List of fruits
-- Mango
-- Banana
+
