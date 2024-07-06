@@ -5,3 +5,4 @@
 - It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document.
 
 
+
